@@ -1,1 +1,1 @@
-# Ruin-s-Leisure
+This is a new theme for Aliucord
